@@ -27,7 +27,7 @@ paginatePath = "page"
 [params]
   description = "IT Services"
   author = "Pratik Sutar"
-  logo = "/images/logo.svg"
+  logo = "images/logo.svg"
   # Google Analytics ID (e.g., "G-XXXXXXXXXX")
   # googleAnalytics = "G-XXXXXXXXXX"
   
@@ -68,7 +68,7 @@ paginatePath = "page"
     
     # Logo configuration
     [params.header.logo]
-      src = "/images/logo.svg"
+      src = "images/logo.svg"
     
     # Menu configuration
     [params.header.menu]
