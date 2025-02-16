@@ -2,7 +2,7 @@
 title: Home
 client_logos:
   - name: "Customer 1"
-    logo: "/images/logos/customer-1.png"
+    logo: "images/logos/customer-1.png"
   - name: "Customer 2"
     logo: "/images/logos/customer-2.png"
   - name: "Customer 3"
@@ -14,7 +14,7 @@ client_logos:
 testimonials:
   - name: "John Smith"
     title: "CTO at TechStartup"
-    avatar: "/images/testimonial-1.svg"
+    avatar: "images/testimonial-1.svg"
     quote: "We built our SaaS website in record time. The performance is incredible, and our users love the modern, clean design."
   - name: "Sarah Johnson"
     title: "Founder at WebFlow"
