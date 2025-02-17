@@ -2,11 +2,11 @@
 title: Home
 client_logos:
   - name: "Customer 1"
-    logo: "images/logos/customer-1.png"
+    logo: "/images/logos/customer-1.png"
   - name: "Customer 2"
-    logo: "images/logos/customer-2.png"
+    logo: "/images/logos/customer-2.png"
   - name: "Customer 3"
-    logo: "images/logos/customer-3.png"
+    logo: "/images/logos/customer-3.png"
   - name: "Customer 4"
     logo: "images/logos/customer-4.png"
   - name: "Customer 5"
